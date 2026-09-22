@@ -1,6 +1,6 @@
-# NeuroAi: Empowering Neurodiverse Learners
+# NeuroAI: Empowering Neurodiverse Learners
 
-**NeuroAi** is an innovative web application designed to provide a personalized learning experience for neurodiverse students. By leveraging advanced technologies like speech recognition, AI-driven interactions, and 3D modeling, NeuroAi creates an engaging and supportive learning environment that caters to the unique educational needs and well-being of its users.
+**NeuroAI** is an innovative web application designed to provide a personalized learning experience for neurodiverse students. By leveraging advanced technologies like speech recognition, AI-driven interactions, and 3D modeling, NeuroAi creates an engaging and supportive learning environment that caters to the unique educational needs and well-being of its users.
 
 ## Key Features
 
